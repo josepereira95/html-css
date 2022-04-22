@@ -1,0 +1,18 @@
+CSS ADICIONAL:
+
+.font-pesada{
+font-weight:bold !important;
+}
+
+.font-blue-ck{
+color:#2186EB !important;
+}
+
+
+ELEMENTOR:
+
+<span class="font-pesada">   </span>
+<span class="font-blue-ck">   </span>
+
+
+<> {}
